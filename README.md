@@ -12,7 +12,7 @@ D --> C
 ```
 
 ### Database model diagram
-![Database Model](https://user-images.githubusercontent.com/21955255/221970585-fa950fc6-44ad-4ade-a0b7-5623fb5df484.png)
+<img width="1053" alt="Captura de Tela 2023-02-28 às 20 00 39" src="https://user-images.githubusercontent.com/21955255/222002087-af02d36a-845d-4364-994e-0e4f3acfa1e0.png">
 
 ### Docker Hub Postgres Repository
 https://hub.docker.com/repository/docker/patrickamaral/orders_postgres/general
